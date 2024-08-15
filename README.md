@@ -7,4 +7,4 @@ This repo contains code + additional material to run the simulations published i
 - `/src/main.py` the main routine. Execute this Python script to start the pipeline
 - `Biophysical_simulation.zip` contains all files required to execute the CompuCell3D simulation
 - `intensity_image.tif` 3D confocal image of the spheroid shown in the publication
-- `segmentation_seg.npy` numpy array with segmentation results for this spheroid
+- `segmentation_seg.npy.zip` (zipped) numpy array with segmentation results for this spheroid
